@@ -1,4 +1,4 @@
 language: java
-script: mvn clean test vertify
+script: mvn clean test install
 jdk: openjdk8
 sudo: false
